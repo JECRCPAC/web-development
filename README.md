@@ -8,12 +8,12 @@ Commands Used : -
 
 *What is GIT?*
 
-Git is a version control system, probably like **Central Versioning System or Revision Control System** but much more powerful and features.
-For example, if you have a file on which you’ve been working on and reworking for a long time, all the versions of it are saved in Git, and you can easily get back to every version. 
+Git is a version control system, probably like **Central Versioning System or Revision Control System** but much more powerful and features.<br>
+For example, if you have a file on which you’ve been working on and reworking for a long time, all the versions of it are saved in Git, and you can easily get back to every version. <br>
 Let's take example - You're cooking dish and suddenly you add more salt than needed, similarly in case of programs/code/software there will we mistakes or errors so to rectify that we use GIT. Git also allows many different person to work on same code.
 
 **Resource** 
-[*Learn GIT.*](https://www.codecademy.com/learn/learn-git)
+[*Learn GIT.*](https://www.codecademy.com/learn/learn-git)<br>
 Github.com
 
 Task
