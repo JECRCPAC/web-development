@@ -25,3 +25,5 @@ Task
  - Modify index.html according to you.
  - Join Slack Using Jecrc Email Address. https://jecrc.slack.com/signup
  - Submit you repository link to #general in slack.
+
+P.S. - If you're stuck anywhere post it on #general or pm on slack, **Don't Ask To Ask, Just Ask**.
